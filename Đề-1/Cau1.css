@@ -1,0 +1,25 @@
+body{
+    background-image: white;
+    height:100vh;
+    overflow: hidden;
+}
+.content{
+    border-style: solid;
+    padding: 10px;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    margin-left: 4px;
+    position: absolute;
+    top: 11%;
+    line-height: 30px;
+
+}
+h1{
+    font-size: 27px;
+    padding-left: 4em;
+    font-weight: lighter;
+}
+button{
+    position: absolute;
+    left: 40%;
+}

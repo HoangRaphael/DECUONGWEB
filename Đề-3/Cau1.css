@@ -1,0 +1,19 @@
+body{
+    background-image: white;
+    height:100vh;
+    overflow: hidden;
+}
+h1{
+    font-size: 27px;
+    padding-left: 5em;
+    font-weight: lighter;
+}
+.content{
+    position: absolute;
+    line-height: 30px;
+    margin-left: 4px;
+}
+.button{
+    position: absolute;
+    left: 40%;
+}

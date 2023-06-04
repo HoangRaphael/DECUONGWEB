@@ -1,0 +1,15 @@
+body{
+    background-image: white;
+    height:100vh;
+    overflow: hidden;
+}
+.container{
+    position: absolute;
+    line-height: 30px;
+    margin-left: 4px;
+}
+.button{
+    position: absolute;
+    left:43%;
+    
+}
